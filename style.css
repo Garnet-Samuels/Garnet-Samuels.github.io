@@ -368,8 +368,6 @@ nav .fa{
         background-size: cover;
         background-position: relative;
         background-attachment: fixed;
-
-
     }
     .header-text{
         /*margin-top:100%;*/
@@ -428,6 +426,14 @@ nav .fa{
     }
     .copyright{
         font-size: 14px;
+    }
+}
+@media only screen and (max-width: 200px){
+    #header{
+        background-image:url(https://raw.githubusercontent.com/Garnet-Samuels/Garnet-Samuels.github.io/main/phone-background.png);
+        background-size: cover;
+        background-position: relative;
+        background-attachment: fixed;
     }
 }
 #msg{
