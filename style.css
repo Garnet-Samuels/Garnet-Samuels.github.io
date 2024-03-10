@@ -76,7 +76,6 @@ nav ul li a:hover::after{
 .header-text h3 span{
     color: #00fdff;
 } 
-
 /*----------about---------*/
 #about{
     padding: 80px 0;
@@ -432,7 +431,7 @@ nav .fa{
 }
 #msg{
     color: #61b752;
-    margin-top: -40px;
+    margin-top: -60px;
     display: block;
 }
 
