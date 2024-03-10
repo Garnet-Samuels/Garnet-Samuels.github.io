@@ -364,7 +364,7 @@ nav .fa{
 
 @media only screen and (max-width: 600px){
     #header{
-        background-image:url(images/photo-background.png);
+        background-image:url(https://raw.githubusercontent.com/Garnet-Samuels/Garnet-Samuels.github.io/main/photo-background.png);
         background-size: cover;
         background-position: relative;
         background-attachment: fixed;
