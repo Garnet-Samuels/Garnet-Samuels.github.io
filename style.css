@@ -10,6 +10,7 @@ html{
 body{
     background: #080808;
     color: #fff;
+    margin-bottom: -50px;
 }
 #header{
     width: 100%; 
